@@ -1,0 +1,19 @@
+body {
+  font-family: Arial, sans-serif;
+  background: wheat;
+}
+
+.box {
+  width: 300px;
+  margin: 100px auto;
+  padding: 20px;
+  background: white;
+  border: 1px solid red;
+}
+
+input {
+    color: royalblue;
+  width: 100%;
+  padding: 8px;
+  margin: 10px 0;
+}
